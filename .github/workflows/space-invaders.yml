@@ -123,7 +123,8 @@ jobs:
       - name: Install & Build
         run: |
           cd jeu_2_Space_Invaders
-          npm install --legacy-peer-deps
+          rm -rf node_modules
+          npm install --force
           npm run build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
