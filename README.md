@@ -2,7 +2,8 @@
 
 > Automatiser plus pour travailler moins — et livrer plus sûrement.
 
-Projet Epitech DevOps — mise en place de pipelines CI/CD pour des jeux vidéo rétro JavaScript issus de la compétition [js13kGames 2021](https://js13kgames.com/) (thème : space).
+Projet Epitech DevOps — mise en place de pipelines CI/CD pour des jeux vidéo rétro JavaScript issus de la compétition js13kgames.
+Voici l'[Apercu du site](https://dalobaminthe.github.io/jeux_videops/).
 
 ---
 
